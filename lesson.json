@@ -1,0 +1,15 @@
+{
+  "lesson": 20,
+  "title": "Building Multi-Tool Agents with Claude",
+  "application": "Project Evidence Auditor",
+  "purpose": "Discover Python files, inspect their contents, and save a report whose file inventory is independently computed.",
+  "exercise": "Add a Python file with an intentional TODO. Compare the independent inventory with the agent report.",
+  "source_topics": [
+    "01-Choose-Tools-by-Capability.png",
+    "02-Configure-the-Tool-Surface.png",
+    "03-Design-the-Workflow-Around-Evidence.png",
+    "04-Track-Requests-and-Tool-Results.png",
+    "05-Run-the-Multi-Tool-Report-Agent.png",
+    "06-Verify-the-Artifact-and-Recover.png"
+  ]
+}

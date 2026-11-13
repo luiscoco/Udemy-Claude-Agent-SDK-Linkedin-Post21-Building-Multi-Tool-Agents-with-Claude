@@ -1,0 +1,1 @@
+The project has calculator.py, which defines add(a, b).

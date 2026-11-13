@@ -1,0 +1,16 @@
+{
+  "lesson": 20,
+  "application": "Project Evidence Auditor",
+  "mode": "offline_teaching_fixture",
+  "status": "complete",
+  "result": {
+    "inventory": [
+      {
+        "path": "data\\project\\calculator.py",
+        "lines": 2
+      }
+    ],
+    "report": "The project has calculator.py, which defines add(a, b)."
+  },
+  "measured_cost_usd": null
+}
